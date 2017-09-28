@@ -131,5 +131,16 @@ SHEDSKIN: https://github.com/shedskin/shedskin
 
 C++
 
+DATA TRANSFER/COMPRESSION:
+
+ZLib - A very compact compression library for data streams. Used zziblib and minizip, too.: http://zlib.net/
+
+-----------------------------------------------------------
+
+DATABASES:
+
+SQlite - http://www.sqlite.org/
+SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine. SQLite is the most used database engine in the world.
+
 -----------------------------------------------------------
 -----------------------------------------------------------
